@@ -130,7 +130,7 @@ Tidak menggunakan piringan mekanis | Menggunakan piringan mekanis
 Lebih tahan terhadap guncangan | Lebih sensitif
 Umumnya lebih mahal per kapasitas | Umumnya lebih murah per kapasitas
 ## BAGIAN 2 — SISTEM OPERASI
-### 6. Apa Itu Operating System (OS)?
+### 1. Apa Itu Operating System (OS)?
 Operating System (OS) atau sistem operasi adalah software utama yang mengatur perangkat keras dan menyediakan lingkungan agar aplikasi dapat berjalan.
 Contoh:
 - Windows
@@ -139,7 +139,7 @@ Contoh:
 - Android
 - iOS
 Tanpa sistem operasi, penggunaan komputer akan menjadi jauh lebih sulit karena aplikasi membutuhkan sistem yang mengatur hardware dan berbagai layanan dasar.
-### 7. Analogi Sistem Operasi
+### 2. Analogi Sistem Operasi
 Bayangkan sebuah sekolah.
 Ada:
 - Guru
@@ -157,7 +157,7 @@ Game
 Windows
 ↓
 CPU + RAM + GPU + Storage
-### 8. Fungsi Sistem Operasi
+### 3. Fungsi Sistem Operasi
 ## Beberapa fungsi OS:
 ### 1. Mengelola hardware
 Misalnya:
@@ -183,8 +183,8 @@ Tugas
 Project
 ### 4. Menyediakan antarmuka
 Misalnya tampilan desktop, menu, folder, dan sebagainya.
-BAGIAN 3 — ALGORITMA
-## 9. Apa Itu Algoritma?
+## BAGIAN 3 — ALGORITMA
+### 1. Apa Itu Algoritma?
 Algoritma adalah langkah-langkah logis dan sistematis untuk menyelesaikan suatu masalah.
 Tidak harus langsung berhubungan dengan komputer.
 Contoh:
@@ -198,7 +198,7 @@ Algoritma membuat mie instan
 7. Sajikan
 Itulah algoritma.
 Jadi algoritma sebenarnya sudah kita gunakan dalam kehidupan sehari-hari.
-### 10. Analogi Algoritma
+### 2. Analogi Algoritma
 Bayangkan kamu ingin pergi ke sekolah.
 Tujuan:
 Rumah → Sekolah
@@ -217,7 +217,7 @@ Kalau:
 3. Bangun
 jelas tidak masuk akal.
 Itulah pentingnya algoritma.
-### 11. Algoritma dalam Pemrograman
+### 3. Algoritma dalam Pemrograman
 Dalam pemrograman, kita memberikan instruksi kepada komputer.
 Komputer tidak berpikir seperti manusia.
 Kita harus memberikan instruksi yang:
@@ -234,7 +234,7 @@ Algoritmanya:
 4. Jika tidak
       tampilkan "Belum boleh"
 Kemudian algoritma tersebut dapat diterjemahkan ke bahasa pemrograman.
-12. Kenapa Algoritma Penting?
+### 4. Kenapa Algoritma Penting?
 Algoritma membantu programmer:
 Memahami masalah
 Sebelum coding, kita harus tahu:
@@ -245,7 +245,7 @@ Mengurangi kesalahan
 Kita dapat mengetahui langkah mana yang salah.
 Mempermudah coding
 Algoritma bisa dianggap sebagai rencana sebelum menulis kode.
-13. Algoritma ≠ Bahasa Pemrograman
+### 5. Algoritma ≠ Bahasa Pemrograman
 Ini penting untuk siswa baru.
 Algoritma adalah cara/langkah penyelesaian masalah.
 Bahasa pemrograman adalah bahasa yang digunakan untuk menerjemahkan instruksi tersebut agar dapat dijalankan komputer.
@@ -260,8 +260,8 @@ hasil = angka + 10
 print(hasil)
 Hasil:
 15
-BAGIAN 4 — BAHASA PEMROGRAMAN
-14. Apa Itu Bahasa Pemrograman?
+## BAGIAN 4 — BAHASA PEMROGRAMAN
+### 1. Apa Itu Bahasa Pemrograman?
 Bahasa pemrograman adalah bahasa yang digunakan manusia untuk memberikan instruksi kepada komputer melalui program.
 Manusia menggunakan bahasa seperti:
 "Tolong hitungkan 10 + 20."
@@ -278,7 +278,7 @@ Contoh bahasa pemrograman:
 - Swift
 - Go
 - Rust
-15. Kenapa Ada Banyak Bahasa Pemrograman?
+### 2. Kenapa Ada Banyak Bahasa Pemrograman?
 Karena setiap bahasa memiliki tujuan, karakteristik, ekosistem, dan kelebihan yang berbeda.
 Contohnya:
 Python
@@ -305,7 +305,7 @@ Banyak digunakan untuk:
 - aplikasi yang membutuhkan performa tinggi
 - embedded
 - game dan software tertentu
-16. Jenis Bahasa Pemrograman
+### 3. Jenis Bahasa Pemrograman
 Ada beberapa cara untuk mengelompokkan bahasa pemrograman.
 A. Berdasarkan tingkat abstraksi
 1. Low-level language
